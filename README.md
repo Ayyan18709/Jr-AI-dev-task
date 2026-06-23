@@ -6,7 +6,7 @@ cross-encoder reranking, conversation memory, Redis caching, and Prometheus moni
 
 ---
 
-### 🎥 **[Watch the Project Demo Video Here (Loom) - REPLACE THIS TEXT WITH YOUR LINK](YOUR_LOOM_LINK_HERE)**
+### 🎥 **[Watch the Project Demo Video Here (Loom) - (https://www.loom.com/share/e41bd5fee88b4c1fa7200a459ee0c127)**
 
 ---
 
