@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the candidate's highest level of education?",
+    "reference_answer": "The candidate holds a degree in their field of study."
+  },
+  {
+    "question": "What programming languages does the candidate know?",
+    "reference_answer": "The candidate is proficient in various programming languages relevant to their field."
+  },
+  {
+    "question": "How many years of work experience does the candidate have?",
+    "reference_answer": "The candidate has several years of professional experience."
+  },
+  {
+    "question": "What projects has the candidate worked on?",
+    "reference_answer": "The candidate has worked on several notable projects in their career."
+  },
+  {
+    "question": "What are the candidate's key technical skills?",
+    "reference_answer": "The candidate possesses a range of technical skills relevant to their profession."
+  },
+  {
+    "question": "What certifications does the candidate hold?",
+    "reference_answer": "The candidate has obtained relevant professional certifications."
+  },
+  {
+    "question": "Where has the candidate previously worked?",
+    "reference_answer": "The candidate has worked at various organizations throughout their career."
+  },
+  {
+    "question": "What is the candidate's area of expertise?",
+    "reference_answer": "The candidate specializes in their primary domain of expertise."
+  },
+  {
+    "question": "What soft skills does the candidate have?",
+    "reference_answer": "The candidate demonstrates strong communication, teamwork, and problem-solving skills."
+  },
+  {
+    "question": "What is the candidate's contact information?",
+    "reference_answer": "The candidate provides contact details including email and phone number in their CV."
+  }
+]
